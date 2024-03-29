@@ -1,0 +1,6 @@
+git remote add origin https://github.com/jvprojet/project.git  
+git branch feature-branch  
+git checkout feature-branch  
+git add . 
+git commit -m "Implementando nova funcionalidade" 
+git push -u origin feature-branch 
